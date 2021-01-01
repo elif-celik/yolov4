@@ -367,7 +367,6 @@ data/train/danaBonfile/danabonfile108.jpg
 data/train/kiymaliPide/kiymalipide90.jpg
 data/train/kadinbuduKofte/kadinbudukofte44.jpg
 data/train/beyti/beyti50.jpg
-data/train/.git/config
 data/train/kadinbuduKofte/kadinbudukofte19.jpg
 data/train/izgaraKofte/izgarakofte56.jpg
 data/train/hamsiTava/hamsitava61.jpg

@@ -1397,7 +1397,6 @@ data/train/bulgurPilavi/bulgurpilavi83.jpg
 data/train/cigKofte/cigkofte51.jpg
 data/train/Gullac/gullac57.jpg
 data/train/cobanSalata/cobansalata102.jpg
-data/train/.git/info
 data/train/beyti/beyti57.jpg
 data/train/adanaKenap/adanakenap87.jpg
 data/train/akcaabatKofte/akcaabatkofte58.jpg
